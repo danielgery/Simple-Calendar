@@ -1,0 +1,7 @@
+organization=guilhermedeconto-github
+projectKey=GuilhermeDeconto_Simple-Calendar
+serverUrl=https://sonarcloud.io
+serverVersion=7.8.0.24676
+dashboardUrl=https://sonarcloud.io/dashboard?id=GuilhermeDeconto_Simple-Calendar
+ceTaskId=AWqUqbtoAki0z6x-6Ql4
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWqUqbtoAki0z6x-6Ql4
